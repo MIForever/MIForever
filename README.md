@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [tg://resolve?domain=TECHWITHMIF](tg://resolve?domain=TECHWITHMIF)
 
-- 💬 Ask me about **PyQt5, Telegram bots**
+- 💬 Ask me about **PyQt5, Pandas, Telegram bots**
 
 - 📫 How to reach me **inoyatullomusayev1@gmail.com**
 
