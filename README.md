@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miforever&label=Profile%20views&color=0e75b6&style=flat" alt="miforever" /> </p>
 
-- 🔭 I’m currently working on **EchoBridge**
+- 🔭 I’m currently working on **Sivi**
 
 - 🌱 I’m currently learning **Docker, Tensorflow**
 
-- 💬 Ask me about **PyQt5, Pandas, Telegram bots**
+- 💬 Ask me about **Pytorch, Django, Pandas, Telegram bots**
 
 - 📫 How to reach me **inoyatullomusayev1@gmail.com**
 
