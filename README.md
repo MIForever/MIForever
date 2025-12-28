@@ -1,26 +1,67 @@
-<h1 align="center">Hi 👋, I'm Inoyatulloh Musayev</h1>
-<h3 align="center">A passionate Data scientist as well as Backend developer from Uzbekistan</h3>
+# Inoyatulloh Musayev
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miforever&label=Profile%20views&color=0e75b6&style=flat" alt="miforever" /> </p>
+**Data Scientist & Backend Developer | AI Engineer | CEO @ Farobiy IT Academy | Founder @ Sivi**
 
-- 🔭 I’m currently working on **Sivi**
+---
 
-- 🌱 I’m currently learning **Docker, Tensorflow**
+## About Me
+Backend engineer and AI enthusiast with experience in building **scalable APIs, production-ready systems, and AI-integrated platforms**. Skilled in Python, Django, FastAPI, and SQL, with a focus on **automation, intelligent pipelines, and real-world impact**. Experienced in leading teams, mentoring developers, and building startups from scratch.
 
-- 💬 Ask me about **Pytorch, Django, Pandas, Telegram bots**
+---
 
-- 📫 How to reach me **inoyatullomusayev1@gmail.com**
+## Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/mif.forever" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mif.forever" height="30" width="40" /></a>
-</p>
+**Languages:** Python, SQL, C, C++, JavaScript, Bash  
+**Backend & Frameworks:** Django, FastAPI, Django REST Framework, Celery, Redis  
+**Databases:** PostgreSQL, MySQL, SQLite  
+**AI & ML:** PyTorch, TensorFlow, Scikit-learn, HuggingFace, LLM integration  
+**DevOps & Tools:** Docker, Git, GitHub Actions, Linux, Nginx, Postman  
+**Frontend (Basic):** HTML, CSS, JavaScript  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miforever&show_icons=true&locale=en&layout=compact" alt="miforever" /></p>
+## Selected Projects & Leadership
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miforever&show_icons=true&locale=en" alt="miforever" /></p>
+### **Sivi** – AI Career Agent  
+*Founder & Lead Developer*  
+- Automates resume creation, job search, and interview preparation.  
+- Built scalable backend with Django and integrated vector-based search and LLMs for personalized recommendations.  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miforever&" alt="miforever" /></p>
+### **Farobiy IT Academy Platform** – CEO & Lead Developer  
+- Managing IT education projects and leading backend development for internal learning management tools.  
+- Implemented API services, Telegram bot integration, and automated student tracking.  
+
+### **AI & Backend Projects**  
+- Document processing pipelines and automated reporting systems.  
+- Churn prediction and analytics backend reducing losses and improving CTR by 20%.  
+- Mentoring programs for 30+ backend developers, improving job readiness through code reviews and real-world projects.
+
+---
+
+## Experience Highlights
+- **CEO & Founder** – Farobiy IT Academy & Sivi  
+- **AI Developer** – Cybernet AI: refactored legacy systems, built internal APIs, automated reporting  
+- **Backend & Software Engineering Mentor** – Astrum IT Academy: led backend modules, boosted engagement  
+- **Data Scientist** – VEON AdTech (Beeline): processed 20M+ records, built predictive analytics pipelines  
+
+---
+
+## Education
+- **Bachelor’s in Digital Economy**, Tashkent University of Information Technologies (2023–Present)  
+- **Software Engineering Certificate**, Astrum IT Academy – Qwasar Silicon Valley Program (2022–2023)  
+- Specializations: Data Science & Machine Learning Tracks (2023–2024)  
+
+---
+
+## Contact
+- Email: [inoyatullomusayev1@gmail.com](mailto:inoyatullomusayev1@gmail.com)  
+- GitHub: [github.com/MIForever](https://github.com/MIForever)  
+- LinkedIn: [linkedin.com/in/inoyatulloh-musayev](https://linkedin.com/in/inoyatulloh-musayev/)  
+- Telegram: [@i_musayev](https://t.me/i_musayev)  
+- Portfolio: [miforever.github.io/Portfolio](https://miforever.github.io/Portfolio/)
+
+---
+
+## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MIForever&layout=compact)  
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=MIForever&show_icons=true&locale=en)
