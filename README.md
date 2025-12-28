@@ -59,9 +59,3 @@ Backend engineer and AI enthusiast with experience in building **scalable APIs, 
 - LinkedIn: [linkedin.com/in/inoyatulloh-musayev](https://linkedin.com/in/inoyatulloh-musayev/)  
 - Telegram: [@i_musayev](https://t.me/i_musayev)  
 - Portfolio: [miforever.github.io/Portfolio](https://miforever.github.io/Portfolio/)
-
----
-
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MIForever&layout=compact)  
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=MIForever&show_icons=true&locale=en)
